@@ -1,0 +1,17 @@
+version:3120
+autoJump:false
+snooperEnabled:false
+simulationDistance:6
+guiScale:3
+maxFps:260
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix"]
+incompatibleResourcePacks:[]
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+chatPreview:false
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.antighost.reveal:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown

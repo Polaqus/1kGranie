@@ -1,0 +1,13 @@
+name = "1K granie auau"
+author = "Przemek i pewnie jescze ktoś"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "98ca55039dddd054763c2c6bbdaffd18f8bed72c95fb1663844cbb6d4277f58d"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.1-beta.17"

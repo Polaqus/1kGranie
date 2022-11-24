@@ -1,0 +1,13 @@
+name = "Skinpls"
+filename = "skinpls-mc1.19.2-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/n1TtnAfV/versions/UIYjAS6h/skinpls-mc1.19.2-1.1.jar"
+hash-format = "sha1"
+hash = "9ee5c12047f105f8cc71fe63fd157a968670e7bc"
+
+[update]
+[update.modrinth]
+mod-id = "n1TtnAfV"
+version = "UIYjAS6h"
