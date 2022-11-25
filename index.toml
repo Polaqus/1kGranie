@@ -230,6 +230,11 @@ hash = "67e52f1d24affe5295829b38769d1181fb147c4ebc86531fce0fae2d1549ef9a"
 metafile = true
 
 [[files]]
+file = "mods/origins-minus-enderless.pw.toml"
+hash = "5a7f9a9d7d3b383f3c17e8b93ce2796f566c857ed8d4928528cba4785563ef23"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
 metafile = true
@@ -300,11 +305,6 @@ hash = "58895127695d12757a124219ae3f0ca7286d518179368fe3f6d7753604673cb8"
 metafile = true
 
 [[files]]
-file = "mods/rpgstats.pw.toml"
-hash = "a22906cd5f861bd92dae287dd2e4fceafbaa68b3cb95e770645289b59e7c1b74"
-metafile = true
-
-[[files]]
 file = "mods/scout.pw.toml"
 hash = "9220edac770c544c7c4aab53580f9a01b8e9e7a82e17f4bd7d4432b1b48998c9"
 metafile = true
@@ -365,8 +365,8 @@ hash = "6623e72df111d528d87a4406940d83ac8394fe646e2add770c1b48d168dab07d"
 metafile = true
 
 [[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "a171322112f845cfce4d815fa1e615bd857f2bd895329010193386b0f952a264"
+file = "mods/vtdownloader.pw.toml"
+hash = "b935d2b958f96006d9f39fe585a240cbcc2701fe437c49e6f7c539a1ade0bc90"
 metafile = true
 
 [[files]]
