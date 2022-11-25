@@ -85,6 +85,11 @@ hash = "e40c668672e337d69839903f684d65ec6a72234354ec7c07e48aed697c98d6ff"
 metafile = true
 
 [[files]]
+file = "mods/cyberanner-ironchest.pw.toml"
+hash = "ebaf036d0d7ed508d25f08749872d1cfb4009d46ab9f7fd8bfbf1674c884a91d"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "ee791485dbd1008c51079c693960b6555311d2fc44d2a4901b7f4455d00eea24"
 metafile = true
@@ -165,6 +170,11 @@ hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "dab1b9951ec4ae8702752293bda463f07db441a63a46525c8c8c342a5a982c5a"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "575bdefe476d24d7d50f7ac66bd80bf8c770d108bf4683a2e7d772c3dabb4fb1"
 metafile = true
@@ -182,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
 metafile = true
 
 [[files]]
@@ -277,6 +292,21 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "39638667d62782c81ddaa11e7607ceeec5bb7566b3486c9246b9e72c725a7b4f"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "58895127695d12757a124219ae3f0ca7286d518179368fe3f6d7753604673cb8"
+metafile = true
+
+[[files]]
+file = "mods/rpgstats.pw.toml"
+hash = "a22906cd5f861bd92dae287dd2e4fceafbaa68b3cb95e770645289b59e7c1b74"
 metafile = true
 
 [[files]]
