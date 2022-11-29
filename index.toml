@@ -10,6 +10,11 @@ hash = "21d4c1c69be7ea0f9200ab3129fce65f560381618e5565fcaaf52ec02a0b3a48"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
@@ -80,6 +85,11 @@ hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
+metafile = true
+
+[[files]]
 file = "mods/cull-particles-fabric.pw.toml"
 hash = "e40c668672e337d69839903f684d65ec6a72234354ec7c07e48aed697c98d6ff"
 metafile = true
@@ -105,6 +115,11 @@ hash = "94903cb0af809bb0b7eeb715dce7bbeb4959b80d8eed6ec83e6abed881160653"
 metafile = true
 
 [[files]]
+file = "mods/death-counter.pw.toml"
+hash = "918fef0b3cc50df329807cef74877b82e2050209f2d3418d8d2d863d56fd253f"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
@@ -125,6 +140,11 @@ hash = "2ea6f38df595c78289617f94a13fc533fdacadf3cb7e7580d60a32529aaa1a44"
 metafile = true
 
 [[files]]
+file = "mods/emi_farmersdelight.pw.toml"
+hash = "286ee406d092f5763327f12f44ba10a581bb369212ad5080d6fa0152783a24d2"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "1b3706e9e9c79ad136499976a2fd48a60a33f9820ccabdf9aeac76475255b259"
 metafile = true
@@ -132,6 +152,16 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
 metafile = true
 
 [[files]]
@@ -245,18 +275,8 @@ hash = "4aabf462c88be1b5cdd73be5304a8c4b58b5eb96cd5716caccbdfaf196cda91d"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
-metafile = true
-
-[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
-metafile = true
-
-[[files]]
-file = "mods/purpeille.pw.toml"
-hash = "42a6c5ea3129bd1239d85bcaabde70d458528aa802e59fa3c2303068419ea013"
 metafile = true
 
 [[files]]
