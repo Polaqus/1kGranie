@@ -10,11 +10,6 @@ hash = "21d4c1c69be7ea0f9200ab3129fce65f560381618e5565fcaaf52ec02a0b3a48"
 metafile = true
 
 [[files]]
-file = "mods/adorn.pw.toml"
-hash = "a3b079d2a092784d2019e2443c1e47f3e08de10a0bdeab732067c5e45351a96c"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
@@ -176,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
@@ -306,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d34e602a503bc217e9e88ee9fb5389df14df0fd0fac247ff86d54df5c5176d76"
+hash = "d7206d61ecd2c452b047966b6823c81ac4910eafcc113945799bf5d7c20812c4"
 metafile = true
 
 [[files]]
@@ -326,12 +321,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "39638667d62782c81ddaa11e7607ceeec5bb7566b3486c9246b9e72c725a7b4f"
+hash = "af0e46a40167fe12c8621a6cbd0281d2e6168e95507c5e94fd3d4eaa88f8d84e"
 metafile = true
 
 [[files]]
@@ -351,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "478cd1ce1a766d8d27a4c0b35eb630628117d997e11e2270d2dfe8eb3231a9bf"
+hash = "83dd43e2ae6a86eb5596c223d5581a4ed6b6b12aa35e4fff227e27f3e467ffee"
 metafile = true
 
 [[files]]
@@ -361,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "fbc7cf43256806a71a7ea1ee1c05bccfd94be736c5def2c2a5ed1908753e501f"
+hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
 metafile = true
 
 [[files]]
@@ -396,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "6623e72df111d528d87a4406940d83ac8394fe646e2add770c1b48d168dab07d"
+hash = "4a63451ef8d020713651dd9d364772595b0124138511a1a39c9b8c8e72e3c0c0"
 metafile = true
 
 [[files]]
@@ -411,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "fdfab1aaaad776629ecb52c48ee0c933772b8fd89140ce09c81c30b44ce5e9d0"
+hash = "dcfc9996df859731e571721ffef8006ade14f3c2a2f26c716beca15575eb3ce6"
 metafile = true
 
 [[files]]
