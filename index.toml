@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "acd4b31988e7c19421d756cd0f151c6c3b47d5bfb4a1c49107148f159596eb1d"
+hash = "05e59cf5b5367b772899e212fc7072322d33f7d55e22e6c73a5ba61cf1da9b7f"
 
 [[files]]
 file = "mods/addadd.pw.toml"
