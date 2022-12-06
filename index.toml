@@ -121,11 +121,6 @@ hash = "94903cb0af809bb0b7eeb715dce7bbeb4959b80d8eed6ec83e6abed881160653"
 metafile = true
 
 [[files]]
-file = "mods/death-counter.pw.toml"
-hash = "918fef0b3cc50df329807cef74877b82e2050209f2d3418d8d2d863d56fd253f"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
